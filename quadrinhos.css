@@ -1,0 +1,83 @@
+header{
+
+	background: black;
+	padding:20px 0 ;
+}
+
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+	
+  #salazar{
+    width:20%;
+  	padding-left:0%;
+  	padding-bottom: 0%;
+  	padding-top:0% ;
+  }
+
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a:hover{
+ color: white;
+ text-decoration: underline;
+}
+nav li hover active{
+
+}
+
+nav li hover h2{
+    font-size: 40px;
+
+}
+  nav a{
+  	text-transform: uppercase;
+  	color: yellow;
+  	font-weight: bold;
+  	font-size: 22px;
+  	text-decoration: none;
+  }
+ #sal{
+        padding-left:20%;
+    padding-bottom: 0%;
+    padding-top:0% ;
+ }
+ #sal{
+    width:20%;
+ }
+ 
+ #honor{
+    width: 20%;
+    
+        padding-left:20%;
+    padding-bottom: 0%;
+    padding-top:0% ;
+ }
+ footer{
+    text-align: center;
+    background: url(https://t3.ftcdn.net/jpg/00/92/59/04/360_F_92590460_m5H08F2vvxDe96u5dN0MRwupVGfEK2kw.jpg);
+
+ }
+ #logo{
+  width:10%;
+    padding-left:0%;
+    padding-bottom: 0%;
+    padding-top:0% ;
+ }
+ .copyright{
+    font-size: 14px;
+    margin: 20px 0;
+}
